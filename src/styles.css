@@ -5,4 +5,5 @@ body {
    /* background-image: url('./assets/img/bosque.jpg'); */
     background-position: center;
     background-size: cover;
+    height: 100vh;
 }
